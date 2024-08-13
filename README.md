@@ -363,6 +363,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [PyCon Uganda](https://ug.pycon.org/2024)
    > Date: 9th - 13th October || Mode: In-person || Location: NWSC International Resource Centre (IREC), Uganda.
 
+ - [SOSS Fusion](https://events.linuxfoundation.org/soss-fusion/)
+   > Date: 22nd October -  23rd October || Mode: In-person || Location: Alpharetta Conference Center | Atlanta, GA.
+
  - [Open Community Experience](https://www.ocxconf.org/)
    > Date: 22nd - 24th October || Mode: In-person || Location: Mainz, Germany.
 
@@ -377,9 +380,6 @@ If you are interested in contributing to this project, kindly read the [contribu
    
  - [PyConFR](https://www.pycon.fr/)
    > Date: 31st October - 3rd November || Mode: In-person || Location: UFR Mathématique et Informatique, Strasbourg - France.
-
- - [SOSS Fusion](https://events.linuxfoundation.org/soss-fusion/)
-   > Date: 22nd October -  23rd October || Mode: In-person || Location: Alpharetta Conference Center | Atlanta, GA.
 
 </details>
 
