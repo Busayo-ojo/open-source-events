@@ -378,6 +378,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [PyConFR](https://www.pycon.fr/)
    > Date: 31st October - 3rd November || Mode: In-person || Location: UFR Mathématique et Informatique, Strasbourg - France.
 
+ - [SOSS Fusion](https://events.linuxfoundation.org/soss-fusion/)
+   > Date: 22nd October -  23rd October || Mode: In-person || Location: Alpharetta Conference Center | Atlanta, GA.
+
 </details>
 
 
